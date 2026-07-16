@@ -1,6 +1,6 @@
 cask "projectum" do
-  version "2.3.0"
-  sha256 "ce7cf93054224bfe8ec91a760229b809f1580816f656bd25fed8c2b0f82459d0"
+  version "2.4.0"
+  sha256 "d536a92b5517dde122dd94e7d3969f259aae6d95b2c1c710a387f7c1b0e6df33"
 
   url "https://github.com/wleeaf/projectum/releases/download/v#{version}/Projectum-macos.dmg",
       verified: "github.com/wleeaf/projectum/"
